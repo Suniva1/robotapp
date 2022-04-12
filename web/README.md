@@ -1,4 +1,3 @@
-# Ambit Robotics <= Mehul Warade Internship =>
 
 This website is the screen that farmers see regarding the job conducted by the robot on their farm.
 
